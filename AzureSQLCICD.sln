@@ -5,8 +5,6 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AzureSQLCICD", "AzureSQLCICD.sqlproj", "{918F8AEF-59AA-45BA-9259-4612B1876B5E}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "feature_20221004_create_some_view", "..\feature_20221004_create_some_view\feature_20221004_create_some_view.sqlproj", "{A9301A4A-09DC-4148-A90C-3843234F4BEE}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,12 +17,6 @@ Global
 		{918F8AEF-59AA-45BA-9259-4612B1876B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{918F8AEF-59AA-45BA-9259-4612B1876B5E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{918F8AEF-59AA-45BA-9259-4612B1876B5E}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{A9301A4A-09DC-4148-A90C-3843234F4BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9301A4A-09DC-4148-A90C-3843234F4BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9301A4A-09DC-4148-A90C-3843234F4BEE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{A9301A4A-09DC-4148-A90C-3843234F4BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9301A4A-09DC-4148-A90C-3843234F4BEE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A9301A4A-09DC-4148-A90C-3843234F4BEE}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
