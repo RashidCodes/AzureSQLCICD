@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AzureSQLCICD", "AzureSQLCICD.sqlproj", "{918F8AEF-59AA-45BA-9259-4612B1876B5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{918F8AEF-59AA-45BA-9259-4612B1876B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918F8AEF-59AA-45BA-9259-4612B1876B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918F8AEF-59AA-45BA-9259-4612B1876B5E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{918F8AEF-59AA-45BA-9259-4612B1876B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918F8AEF-59AA-45BA-9259-4612B1876B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918F8AEF-59AA-45BA-9259-4612B1876B5E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEA1D5A5-7793-4660-A569-581AF3ED4057}
+	EndGlobalSection
+EndGlobal
