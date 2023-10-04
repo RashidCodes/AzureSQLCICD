@@ -63,6 +63,8 @@
     <Folder Include="sales\" />
     <Folder Include="sales\Tables\" />
     <Folder Include="Security\" />
+    <Folder Include="production\Procedures" />
+    <Folder Include="production\ITVFs" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="production\Tables\categories.sql" />
@@ -76,5 +78,7 @@
     <Build Include="production\Tables\stocks.sql" />
     <Build Include="Security\production.sql" />
     <Build Include="Security\sales.sql" />
+    <Build Include="production\Procedures\sp_SampleStoredProc.sql" />
+    <Build Include="production\ITVFs\tf_getProducts.sql" />
   </ItemGroup>
 </Project>
