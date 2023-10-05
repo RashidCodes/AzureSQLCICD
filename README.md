@@ -1,0 +1,2 @@
+# AzureSQLCICD
+Azure SQL Project
